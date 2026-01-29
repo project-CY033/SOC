@@ -22,7 +22,9 @@
 
 ## 09. Human Attack Vectors in SOC
 ![11](./Daus-2-image/11.png)
+## 10. Human Attack Vectors in SOC
 ![12](./Daus-2-image/12.png)
+### 11. Human Attack Vectors in SOC
 ![13](./Daus-2-image/13.png)
 ![14](./Daus-2-image/14.png)
 ![15](./Daus-2-image/15.png)
