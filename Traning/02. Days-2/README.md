@@ -13,10 +13,14 @@
 ![6](./Daus-2-image/6.png)
 ![7](./Daus-2-image/7.png)
 
-## 06 Technology
+## 07 Technology
 ![8](./Daus-2-image/8.png)
 ![9](./Daus-2-image/9.png)
+
+## 08 Security Departments
 ![10](./Daus-2-image/10.png)
+
+## 09. Human Attack Vectors in SOC
 ![11](./Daus-2-image/11.png)
 ![12](./Daus-2-image/12.png)
 ![13](./Daus-2-image/13.png)
