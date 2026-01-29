@@ -12,6 +12,8 @@
 ![5](./Daus-2-image/5.png)
 ![6](./Daus-2-image/6.png)
 ![7](./Daus-2-image/7.png)
+
+## 06 Technology
 ![8](./Daus-2-image/8.png)
 ![9](./Daus-2-image/9.png)
 ![10](./Daus-2-image/10.png)
