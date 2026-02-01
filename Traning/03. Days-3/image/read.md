@@ -14,4 +14,24 @@
 
 <img width="1253" height="678" alt="image" src="https://github.com/user-attachments/assets/b7db83eb-0722-4196-bed1-a72f45065853" />
 
-## 
+## 6. Supply Chain Attacks
+<img width="1252" height="698" alt="image" src="https://github.com/user-attachments/assets/bc94507d-48d8-463c-b32a-8f245cb83796" />
+
+## 7. Vulnerabilities
+<img width="1265" height="705" alt="image" src="https://github.com/user-attachments/assets/7ec49a9d-ded4-429d-a676-087c702c5c8d" />
+
+<img width="1251" height="670" alt="image" src="https://github.com/user-attachments/assets/e993989a-874d-45b8-a104-7f4419b32201" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
