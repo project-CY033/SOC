@@ -20,7 +20,21 @@
 ## 7. Vulnerabilities
 <img width="1265" height="705" alt="image" src="https://github.com/user-attachments/assets/7ec49a9d-ded4-429d-a676-087c702c5c8d" />
 
+## 8. Vulnerabilities
 <img width="1251" height="670" alt="image" src="https://github.com/user-attachments/assets/e993989a-874d-45b8-a104-7f4419b32201" />
+
+## 9. Software Vulnerabilities
+<img width="1243" height="699" alt="image" src="https://github.com/user-attachments/assets/f97f9662-5fc5-4992-a48f-c0482aaf0419" />
+
+
+## 10. Software Vulnerabilities
+
+<img width="1252" height="687" alt="image" src="https://github.com/user-attachments/assets/27cdc679-5b8f-4956-8003-60051626265f" />
+
+
+## 11. 
+
+
 
 
 
