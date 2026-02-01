@@ -32,16 +32,32 @@
 <img width="1252" height="687" alt="image" src="https://github.com/user-attachments/assets/27cdc679-5b8f-4956-8003-60051626265f" />
 
 
-## 11. 
+## 11. Operating System Vulnerabilities
+<img width="1247" height="691" alt="image" src="https://github.com/user-attachments/assets/fc417031-0c19-4ad9-bb6e-911bc3cd5d93" />
+
+## 12. Network Vulnerabilities
+<img width="1259" height="689" alt="image" src="https://github.com/user-attachments/assets/f566abf0-6f1b-4ef0-b19c-c14e7518affb" />
+
+## 13. Authentication & Authorization Vulnerabilities
+<img width="1241" height="677" alt="image" src="https://github.com/user-attachments/assets/cfcd9e06-c3d4-40ef-a768-2706f1c89ce2" />
 
 
+## 14. Configuration-Dependent Vulnerabilities
+<img width="1222" height="688" alt="image" src="https://github.com/user-attachments/assets/7b4725b4-22a7-49ea-be72-eec725ae90c0" />
+
+## 15. Zero-Day Vulnerabilities
+<img width="1247" height="709" alt="image" src="https://github.com/user-attachments/assets/16fb878f-531a-4a17-8150-0ececf062db7" />
+
+## 16. Zero-Day Vulnerabilities | Life cycle of a zero day
+<img width="1227" height="708" alt="image" src="https://github.com/user-attachments/assets/e9937f6c-2f3a-4ff6-8133-056d30fe385f" />
+
+## 17. Zero-Day Vulnerabilities | Life cycle of a zero day
+<img width="1262" height="699" alt="image" src="https://github.com/user-attachments/assets/22c9df5b-b572-4bbe-92a6-61624accaabf" />
 
 
-
-
-
-
-
+## 18. Common Misconfigurations For SOC : 
+- ## Cloud Misconfigurations
+<img width="1246" height="682" alt="image" src="https://github.com/user-attachments/assets/6adc4767-072c-44a7-988e-e2dfaa39c798" />
 
 
 
