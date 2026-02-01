@@ -65,22 +65,45 @@
 ## 20. Identity Misconfigurations
 <img width="1133" height="698" alt="image" src="https://github.com/user-attachments/assets/23dbd15b-0fbb-48a8-810c-95e54fd006c5" />
 
-## 21. Endpoint Misconfigurations
+### Endpoint Misconfigurations
 <img width="1242" height="677" alt="image" src="https://github.com/user-attachments/assets/0d88e631-473b-449e-b6cc-2a58c63655d9" />
 
-## 22. Major System Categories Used as Attack Vectors
+## 21. Major System Categories Used as Attack Vectors
 <img width="1234" height="695" alt="image" src="https://github.com/user-attachments/assets/7e9400ee-8cd0-4324-8980-47a1c4d1223b" />
 
 
-## 23 Endpoints:
+## 22 Endpoints:
 <img width="1236" height="713" alt="image" src="https://github.com/user-attachments/assets/38f6ef24-b68f-4cf1-af89-7f87d9990951" />
 
 
-## 24 Servers (Application / Database / File)
+## 23 Servers (Application / Database / File)
 <img width="1253" height="692" alt="image" src="https://github.com/user-attachments/assets/935cd9e1-a8dc-48bd-8ec7-418001f2ee69" />
 
 
-## 25 
+## Network Devices (Routers, Firewalls, VPNs)
+<img width="1259" height="690" alt="image" src="https://github.com/user-attachments/assets/105326c0-96ef-49ae-9c88-a725fdad1655" />
+
+
+## 24. Cloud Systems (AWS/Azure / GCP)
+<img width="1230" height="701" alt="image" src="https://github.com/user-attachments/assets/d50a1f4e-6f96-4a9c-95fb-81b5258149ca" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
