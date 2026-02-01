@@ -59,6 +59,32 @@
 - ## Cloud Misconfigurations
 <img width="1246" height="682" alt="image" src="https://github.com/user-attachments/assets/6adc4767-072c-44a7-988e-e2dfaa39c798" />
 
+## 19. Network Misconfigurations
+<img width="1213" height="680" alt="image" src="https://github.com/user-attachments/assets/171b9e3e-8311-41a3-a66f-36ce1494d5c9" />
+
+## 20. Identity Misconfigurations
+<img width="1133" height="698" alt="image" src="https://github.com/user-attachments/assets/23dbd15b-0fbb-48a8-810c-95e54fd006c5" />
+
+## 21. Endpoint Misconfigurations
+<img width="1242" height="677" alt="image" src="https://github.com/user-attachments/assets/0d88e631-473b-449e-b6cc-2a58c63655d9" />
+
+## 22. Major System Categories Used as Attack Vectors
+<img width="1234" height="695" alt="image" src="https://github.com/user-attachments/assets/7e9400ee-8cd0-4324-8980-47a1c4d1223b" />
+
+
+## 23 Endpoints:
+<img width="1236" height="713" alt="image" src="https://github.com/user-attachments/assets/38f6ef24-b68f-4cf1-af89-7f87d9990951" />
+
+
+## 24 Servers (Application / Database / File)
+<img width="1253" height="692" alt="image" src="https://github.com/user-attachments/assets/935cd9e1-a8dc-48bd-8ec7-418001f2ee69" />
+
+
+## 25 
+
+
+
+
 
 
 
