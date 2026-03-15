@@ -11,8 +11,8 @@ Here are some preview images of the project:
 
 | #  | Preview                              | Description                              |
 |----|--------------------------------------|------------------------------------------|
-| 1  | ![Screenshot 1](./Daus-7-image/1.png)   | Main dashboard / home screen             |
-| 2  | ![Screenshot 2](./Daus-7-image/2.png)   | User profile view                        |
+| 1  | ![Screenshot 1](./Daus-7-image/1.png)   | Phishing & Social Engineering             |
+| 2  | ![Screenshot 2](./Daus-7-image/2.png)   | Types of Phishing : Email Phishing                      |
 | 3  | ![Screenshot 3](./Daus-7-image/3.png)   | Settings / configuration panel           |
 | 4  | ![Screenshot 4](./Daus-7-image/4.png)   | Dark mode activated                      |
 | 5  | ![Screenshot 5](./Daus-7-image/5.png)   | Mobile responsive layout                 |
