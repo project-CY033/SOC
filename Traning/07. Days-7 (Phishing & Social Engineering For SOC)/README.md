@@ -27,11 +27,12 @@ Here are some preview images of the project:
 | 14 | ![Screenshot 14](./Daus-7-image/14.png) | Types of Phishing : What is Social Engineering?          |
 | 15 | ![Screenshot 15](./Daus-7-image/15.png) | Types of Phishing : Core Psychological Attacks Used by Attackers             |
 | 16 | ![Screenshot 16](./Daus-7-image/16.png) | Types of Phishing : Core Psychological Attacks Used by Attackers                |
-| 17 | ![Screenshot 17](./Daus-7-image/17.png) | Types of Phishing :                        |
-| 18 | ![Screenshot 18](./Daus-7-image/18.png) | Types of Phishing :           |
-| 19 | ![Screenshot 19](./Daus-7-image/19.png) | Types of Phishing :                |
-| 20 | ![Screenshot 20](./Daus-7-image/20.png) | Types of Phishing :       |
-
+| 17 | ![Screenshot 17](./Daus-7-image/17.png) | Types of Phishing : Types of Social Engineering Attacks                       |
+| 18 | ![Screenshot 18](./Daus-7-image/18.png) | Types of Phishing : Types of Social Engineering Attacks          |
+| 19 | ![Screenshot 19](./Daus-7-image/19.png) | Types of Phishing : Types of Social Engineering Attacks               |
+| 20 | ![Screenshot 20](./Daus-7-image/20.png) | Types of Phishing : Social Engineering Attack Lifecycle      |
+| 21 | ![Screenshot 21](./Daus-7-image/21.png) | Types of Phishing : SOC Analyst Perspective      |
+| 22 | ![Screenshot 21](./Daus-7-image/22.png) | Types of Phishing : Social Engineering in Indian Context     |
 > 💡 **Tip:** Click on any image to see it in full size (works on GitHub and most markdown viewers).
 
 
