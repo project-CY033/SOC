@@ -33,7 +33,7 @@ Here are some preview images of the project:
 | 20 | ![Screenshot 20](./Daus-7-image/20.png) | Types of Phishing : Social Engineering Attack Lifecycle      |
 | 21 | ![Screenshot 21](./Daus-7-image/21.png) | Types of Phishing : SOC Analyst Perspective      |
 | 22 | ![Screenshot 21](./Daus-7-image/22.png) | Types of Phishing : Social Engineering in Indian Context     |
-> 💡 **Tip:** Click on any image to see it in full size (works on GitHub and most markdown viewers).
+
 
 
 ---
