@@ -15,11 +15,10 @@ Here are some preview images of the project:
 | 2  | ![Screenshot 2](./Daus-7-image/2.png)   | Types of Phishing : Email Phishing                      |
 | 3  | ![Screenshot 3](./Daus-7-image/3.png)   | Types of Phishing : Email Phishing            |
 | 4  | ![Screenshot 4](./Daus-7-image/4.png)   | Types of Phishing : Spear Phishing                      |
-| 5  | ![Screenshot 5](./Daus-7-image/5.png)   | Types of Phishing :Whaling
-                 |
-| 6  | ![Screenshot 6](./Daus-7-image/6.png)   | Types of Phishing :Smishing & Vishing                |
-| 7  | ![Screenshot 7](./Daus-7-image/7.png)   | Types of Phishing :             |
-| 8  | ![Screenshot 8](./Daus-7-image/8.png)   | Types of Phishing :      |
+| 5  | ![Screenshot 5](./Daus-7-image/5.png)   | Types of Phishing : Whaling                 |
+| 6  | ![Screenshot 6](./Daus-7-image/6.png)   | Types of Phishing : Smishing & Vishing                |
+| 7  | ![Screenshot 7](./Daus-7-image/7.png)   | Types of Phishing : Pharming            |
+| 8  | ![Screenshot 8](./Daus-7-image/8.png)   | Types of Phishing : Method 1 - DNS Poisoning     |
 | 9  | ![Screenshot 9](./Daus-7-image/9.png)   | Types of Phishing :      |
 | 10 | ![Screenshot 10](./Daus-7-image/10.png) | Types of Phishing :                  |
 | 11 | ![Screenshot 11](./Daus-7-image/11.png) | Types of Phishing :         |
