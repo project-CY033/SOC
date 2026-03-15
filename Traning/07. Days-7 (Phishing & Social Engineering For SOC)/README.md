@@ -14,7 +14,7 @@ Here are some preview images of the project:
 | 1  | ![Screenshot 1](./Daus-7-image/1.png)   | Phishing & Social Engineering             |
 | 2  | ![Screenshot 2](./Daus-7-image/2.png)   | Types of Phishing : Email Phishing                      |
 | 3  | ![Screenshot 3](./Daus-7-image/3.png)   | Types of Phishing : Email Phishing            |
-| 4  | ![Screenshot 4](./Daus-7-image/4.png)   | Dark mode activated                      |
+| 4  | ![Screenshot 4](./Daus-7-image/4.png)   | Types of Phishing : Spear Phishing                      |
 | 5  | ![Screenshot 5](./Daus-7-image/5.png)   | Mobile responsive layout                 |
 | 6  | ![Screenshot 6](./Daus-7-image/6.png)   | Loading / skeleton states                |
 | 7  | ![Screenshot 7](./Daus-7-image/7.png)   | Success / toast notification             |
