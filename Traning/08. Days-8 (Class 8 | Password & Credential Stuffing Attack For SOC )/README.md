@@ -13,8 +13,11 @@
 | 4 | ![Screenshot 1](./Daus-8-image/4.png)   | Reverse Bruteforce Attack | 
 | 5| ![Screenshot 1](./Daus-8-image/5.png)   | Dictionary Attack          |
 | 6 | ![Screenshot 1](./Daus-8-image/6.png)   | Password Spraying             |
-| 7 | ![Screenshot 1](./Daus-8-image/7.png)   | Phishing & Social Engineering             |
-
+| 7 | ![Screenshot 1](./Daus-8-image/7.png)   | Hybrid Attack           |
+| 8 | ![Screenshot 1](./Daus-8-image/8.png)   | Rainbow Table attack          |
+| 9 | ![Screenshot 1](./Daus-8-image/9.png)   | Credential Stuffing          |
+| 10 | ![Screenshot 1](./Daus-8-image/10.png)   | Hybrid Attack           |
+| 11 | ![Screenshot 1](./Daus-8-image/11.png)   | Hybrid Attack           |
 
 ---
 
