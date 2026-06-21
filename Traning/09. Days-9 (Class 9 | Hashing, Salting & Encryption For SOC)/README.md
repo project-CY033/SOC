@@ -5,14 +5,14 @@
 
 ---
 
-| #  | Preview                                   | Description                      |
-|----|-------------------------------------------|----------------------------------|
-| 1  | ![Screenshot 1](./Day-9-image/1.png)      | What is Hashing?                 |
-| 2  | ![Screenshot 2](./Day-9-image/2.png)      | Properties of Hashing            |
-| 3  | ![Screenshot 3](./Day-9-image/3.png)      | Common Hash Algorithms           |
-| 4  | ![Screenshot 4](./Day-9-image/4.png)      | Why Hash Passwords?              |
-| 5  | ![Screenshot 5](./Day-9-image/5.png)      |             |
-| 6  | ![Screenshot 6](./Day-9-image/6.png)      |             |
+| #  | Preview                                   | Description                                   |
+|----|-------------------------------------------|-----------------------------------------------|
+| 1  | ![Screenshot 1](./Day-9-image/1.png)      | What is Hashing?                              |
+| 2  | ![Screenshot 2](./Day-9-image/2.png)      | Properties of Hashing                         |
+| 3  | ![Screenshot 3](./Day-9-image/3.png)      | Common Hash Algorithms                        |
+| 4  | ![Screenshot 4](./Day-9-image/4.png)      | Why Hash Passwords?                           |
+| 5  | ![Screenshot 5](./Day-9-image/5.png)      | The Big Problem (Without Salting)             |
+| 6  | ![Screenshot 6](./Day-9-image/6.png)      | What is Salting                               |
 | 7  | ![Screenshot 7](./Day-9-image/7.png)      |             |
 | 8  | ![Screenshot 8](./Day-9-image/8.png)      |             |
 | 9  | ![Screenshot 9](./Day-9-image/9.png)      |             |
