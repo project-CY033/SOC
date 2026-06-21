@@ -16,8 +16,12 @@
 | 7 | ![Screenshot 1](./Daus-8-image/7.png)   | Hybrid Attack           |
 | 8 | ![Screenshot 1](./Daus-8-image/8.png)   | Rainbow Table attack          |
 | 9 | ![Screenshot 1](./Daus-8-image/9.png)   | Credential Stuffing          |
-| 10 | ![Screenshot 1](./Daus-8-image/10.png)   | Hybrid Attack           |
-| 11 | ![Screenshot 1](./Daus-8-image/11.png)   | Hybrid Attack           |
+| 10 | ![Screenshot 1](./Daus-8-image/10.png)   | MFA Fatigue Attack           |
+| 11 | ![Screenshot 1](./Daus-8-image/11.png)   | About Password Attack           |
+| 12 | ![Screenshot 1](./Daus-8-image/12.png)   | SOC L1 Investigation Workflow           |
+| 13 | ![Screenshot 1](./Daus-8-image/13.png)   | Prevention Mechanisms          |
+| 14 | ![Screenshot 1](./Daus-8-image/14.png)   | Attack Comparison          |
+| 15 | ![Screenshot 1](./Daus-8-image/15.png)   | About Password Attack           |
 
 ---
 
