@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SOC Analyst L1 Training Guide</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #0b3d91;
+      color: #fff;
+      padding: 20px 40px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+    nav {
+      background: #153e75;
+      padding: 10px 40px;
+    }
+    nav a {
+      color: #fff;
+      margin-right: 20px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      padding: 30px 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #0b3d91;
+      margin-top: 50px;
+    }
+    details {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 15px;
+      margin: 15px 0;
+    }
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+    }
+    code {
+      background: #eee;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+    pre {
+      background: #eee;
+      padding: 10px;
+      overflow-x: auto;
+      border-radius: 4px;
+    }
+    .badge {
+      display: inline-block;
+      background: #0b3d91;
+      color: #fff;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      margin-left: 5px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 50px;
+      padding: 20px;
+    }
+    @media (max-width: 768px) {
+      nav, header, .container {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SOC Analyst L1 - Complete Beginner to Pro Training Guide</h1>
+  </header>
+  <nav>
+    <a href="#overview">SOC Overview</a>
+    <a href="#role">L1 Role</a>
+    <a href="#roadmap">Learning Roadmap</a>
+    <a href="#tools">Tools</a>
+    <a href="#attacks">Attack Use Cases</a>
+    <a href="#interview">Interview Prep</a>
+    <a href="#career">Career Path</a>
+  </nav>
+  <div class="container">
+    <h2 id="overview">Why SOC Exists</h2>
+    <p>A Security Operations Center (SOC) is the heart of enterprise cyber defense. It helps organizations detect, investigate, and respond to threats — 24x7. Without a SOC, breaches go undetected, costing millions in damage, data loss, and reputation.</p>
+    <ul>
+      <li><strong>Protects</strong> sensitive data and systems in real time</li>
+      <li><strong>Reduces</strong> breach costs by early detection & response</li>
+      <li><strong>Complements</strong> NOC (network uptime) and IR (post-breach response)</li>
+    </ul>
+
+    <h2 id="role">SOC Analyst L1 Role</h2>
+    <p>As a Tier-1 SOC Analyst, you are the first responder. You monitor, triage, escalate, and document every security alert.</p>
+    <ul>
+      <li>Monitor SIEM, EDR/XDR, firewall, email alerts</li>
+      <li>Validate alerts: <code>True Positive</code> vs <code>False Positive</code></li>
+      <li>Escalate critical events to Tier-2/IR</li>
+      <li>Log everything in ticketing systems</li>
+    </ul>
+    <p><strong>KPIs:</strong> Mean Time to Detect (MTTD), Response Time (MTTR), Accuracy, Escalation Quality</p>
+
+    <h2 id="roadmap">Training Roadmap</h2>
+    <details>
+      <summary>Phase 1: Foundation</summary>
+      <p>Learn TCP/IP, DNS, ports, Windows/Linux basics, OSI model, and basic security principles like CIA triad, access control.</p>
+    </details>
+    <details>
+      <summary>Phase 2: Core SOC Skills</summary>
+      <p>Understand how alerts work, how to triage, investigate logs, and learn analyst workflows. Think like a defender.</p>
+    </details>
+    <details>
+      <summary>Phase 3: Tools & Technologies</summary>
+      <ul>
+        <li><strong>SIEM:</strong> Splunk, QRadar, Sentinel</li>
+        <li><strong>EDR/XDR:</strong> CrowdStrike, Defender, Carbon Black</li>
+        <li><strong>MITRE ATT&CK:</strong> Learn Tactics & Techniques</li>
+      </ul>
+    </details>
+    <details>
+      <summary>Phase 4: Threat Detection</summary>
+      <p>Study common attack patterns: Phishing, Malware, Ransomware, Brute-force, Privilege Escalation, Lateral Movement.</p>
+    </details>
+    <details>
+      <summary>Phase 5: Incident Response</summary>
+      <p>Understand detection, escalation, containment, and reporting. Learn when and how to escalate to L2/IR teams.</p>
+    </details>
+    <details>
+      <summary>Phase 6: Interview Readiness</summary>
+      <ul>
+        <li>Technical + scenario-based questions</li>
+        <li>STAR method for behavioral answers</li>
+        <li>Mock triage walkthroughs</li>
+      </ul>
+    </details>
+
+    <h2 id="tools">Hands-On Tools</h2>
+    <p><span class="badge">SIEM</span> Example query in Splunk:</p>
+    <pre><code>index=security sourcetype=WinEventLog:Security EventCode=4625</code></pre>
+    <p><span class="badge">Logs</span> Example Windows Event Log (Failed Login):</p>
+    <pre><code>EventID: 4625
+User: JohnD
+IP: 192.168.1.50
+Reason: Unknown username or bad password</code></pre>
+
+    <h2 id="attacks">Attack Use Cases</h2>
+    <details>
+      <summary>Phishing</summary>
+      <p>Look for email alerts, malicious URLs, proxy logs, user reports. Confirm and quarantine.</p>
+    </details>
+    <details>
+      <summary>Malware</summary>
+      <p>Triggered via EDR, look for suspicious process execution. Isolate the host and escalate.</p>
+    </details>
+    <details>
+      <summary>Brute Force</summary>
+      <p>Many failed logins (Event 4625), usually same source IP. Block IP, reset passwords.</p>
+    </details>
+
+    <h2 id="interview">Interview Preparation</h2>
+    <ul>
+      <li><strong>Technical:</strong> TCP/IP, DNS, SIEM, EDR, MITRE</li>
+      <li><strong>Scenario:</strong> Phishing alert received – what do you do?</li>
+      <li><strong>Behavioral:</strong> Describe a time you solved a hard alert</li>
+    </ul>
+
+    <h2 id="career">Career Path & Guidance</h2>
+    <ul>
+      <li>L1 → L2 → L3 → IR → Blue Team / Threat Hunter</li>
+      <li>Certs: Security+, CySA+, SC-200, Splunk/Core EDR certs</li>
+      <li>India salary: ₹3–8 LPA (entry), Global: $50K–$150K</li>
+    </ul>
+
+    <footer>
+      &copy; 2026 SOC Analyst Roadmap – Built for Beginners in India | Practice daily. Think like a defender.
+    </footer>
+  </div>
+</body>
+</html>
